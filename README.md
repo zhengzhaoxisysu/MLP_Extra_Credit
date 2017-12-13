@@ -13,3 +13,6 @@ cd to your working directory in terminal, run:
     >> docker run -p 7777:7777 tornado_api
 
 ```
+open browser, enter e.g. "http://localhost:7777/?user=Zhaoxi%20Zheng"
+
+and then you can see "Hello, Zhaoxi Zheng"
